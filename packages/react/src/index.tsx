@@ -1,13 +1,7 @@
 import { ComponentProps } from 'react'
 import { styled } from '../styles'
 
-export const Button = styled('button', {
-  backgroundColor: '$ignite300',
-  border: 'none',
-  fontWeight: '$bold',
-  borderRadius: '$sm',
-  fontFamily: '$default',
-  color: '$white',
+export * from './components/Box'
 
   variants: {
     size: {
