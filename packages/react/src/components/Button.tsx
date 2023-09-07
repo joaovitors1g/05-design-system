@@ -1,6 +1,7 @@
 import { ComponentProps } from 'react'
 
 import { styled } from '../../styles'
+
 import type { WithAs } from '..'
 
 export const Button = styled('button', {
