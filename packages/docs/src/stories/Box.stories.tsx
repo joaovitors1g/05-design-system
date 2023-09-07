@@ -8,6 +8,9 @@ export default {
   args: {
     children: <Text>Testando o elemento Box</Text>,
   },
+  parameters: {
+    controls: { exclude: ['children'] },
+  },
 } as Meta<BoxProps>
 
 type Story = StoryObj<BoxProps>
