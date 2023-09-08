@@ -5,7 +5,10 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=@joaovitors1g-ignite-ui/docs && changeset publish"
   },
   "devDependencies": {
     "turbo": "^1.10.12"
