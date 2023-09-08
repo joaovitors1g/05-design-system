@@ -2,7 +2,7 @@ import { ComponentProps } from 'react'
 
 import { WithAs } from '..'
 
-import { styled } from '../../styles'
+import { styled } from '../styles'
 import { fontSizesAsVariants } from '../utils/fontSizesAsVariants'
 
 export const Text = styled('p', {

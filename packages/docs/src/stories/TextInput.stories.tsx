@@ -41,5 +41,6 @@ export const WithPrefix: Story = {
 export const Disabled: Story = {
   args: {
     disabled: true,
+    placeholder: 'Type your name',
   },
 }
