@@ -1,5 +1,11 @@
 # @joaovitors1g-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- fix package name
+
 ## 2.0.1
 
 ### Patch Changes

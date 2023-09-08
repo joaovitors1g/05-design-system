@@ -1,6 +1,6 @@
 {
   "name": "@joaovitors1g-ignite-ui/tokens",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@joaovitors1g-ignite-ui/eslint-config": "*",
+    "@joaovitors1g-ignite-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }

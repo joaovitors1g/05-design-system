@@ -13,10 +13,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@joaovitors1g-ignite-ui/eslint-config": "*",
+    "@joaovitors1g-ignite-ui/react": "*",
+    "@joaovitors1g-ignite-ui/tokens": "*",
+    "@joaovitors1g-ignite-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   },
