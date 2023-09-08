@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@joaovitors1g-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,6 +20,7 @@
     "polished": "^4.2.2"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.26.2",
     "@storybook/addon-a11y": "^7.4.0",
     "@storybook/addon-essentials": "^7.3.2",
     "@storybook/addon-interactions": "^7.3.2",
